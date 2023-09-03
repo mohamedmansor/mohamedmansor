@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### My Name is ***Mohamed Mansour*** , I'm a Software Engineer who loves building web apps and things that relate to them 🤖
+
+###  🔭 My professional experience domains
+      * Building Payment related products
+      * E-learning websites
+      * BNPL Apps
+
+<img hight="100" width="230" alt="GIF" align="left" src="assets/writing.gif">   
+
+### 🛠 My Toolkit
+
+👨‍💻 **Languages that I feel interested in:**  
+    * Python
+    * Django
+    * Golang (still growing and learning)
+
+💬 **Things that I can talk/write about and use:**  
+
+
+### ✨ Things that excite me:
+
+
+
+### 🏢 Companies I worked with/for
+
+### 📫 How to reach me:
+
+    * Email: m.aly.ashour@gmail.com
+    * Linkedin: https://www.linkedin.com/in/malyashour/
+    * blog: blog.m-ashour.space
+
