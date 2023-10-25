@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 ### 🛠 My Toolkit
 
 👨‍💻 **Languages that I feel interested in:**  
+    
     * Python
+
     * Django
+
     * Golang (still growing and learning)
 
 💬 **Things that I can talk/write about and use:**  
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 
-    * Email: m.aly.ashour@gmail.com
-    * Linkedin: https://www.linkedin.com/in/malyashour/
-    * blog: blog.m-ashour.space
+    * Email: mohamedmansor212@gmail.com
+    * Linkedin: https://www.linkedin.com/in/mohamed-mansor
+    * blog: https://mohamedmansour.hashnode.dev
 
