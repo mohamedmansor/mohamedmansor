@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
     * Python
     * Django
+    * Flask
     * Node JS
     * Express
     * Golang (still growing and learning)
@@ -63,6 +64,7 @@ Here are some ideas to get you started:
 </td>
 
 </table>
+
 
 ### 📫 How to reach me
 
