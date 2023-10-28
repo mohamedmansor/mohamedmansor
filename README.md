@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 🏢 Companies I worked with
 
 <table border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
-
+<tr>
 <td>
     <a href= "https://shahry.app" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Shahry" align="center" src="assets/Shahry.png"></a>
 </td>
