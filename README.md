@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
     * Python
     * Django
+    * Node JS
+    * Express
     * Golang (still growing and learning)
 
 ### 💬 **Things that I can talk/write about and use:**  
