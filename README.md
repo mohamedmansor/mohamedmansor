@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 <table border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
 <tr>
 <td>
+    <a href= "borderless.munify.ai" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Munify" align="center" src="assets/Munify.png"></a>
+</td>
+<td>
     <a href= "https://trufinance.app" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="TRU" align="center" src="assets/TRU.png"></a>
 </td>
 <td>
